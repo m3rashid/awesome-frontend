@@ -11,4 +11,6 @@ const appConfig = {
   },
 };
 
+export const toasterID = 'rsd-toaster-id-unique';
+
 export default appConfig;
